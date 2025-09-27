@@ -250,7 +250,7 @@ const Reservations = () => {
                       variant="outline"
                       className="bg-white/10 border-white/30 text-white hover:bg-white hover:text-warm-brown"
                     >
-                      Call (555) 123-4567
+                      Call + (233) 599 588 284
                     </Button> <br /> <br />
 
                     <Button
